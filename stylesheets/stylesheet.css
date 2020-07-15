@@ -254,14 +254,13 @@ p
     position: relative;
     
 }
-
 .p4
 {
     position:absolute;
-    height: 30px;
-    width: 14%;
-    top: 73px;
-    right: 39px;
+    height: 33px;
+    width: 15%;
+    top: 72px;
+    right: 37px;
     padding: 3px;
     text-align: center;
     font-weight: 700;
@@ -272,14 +271,13 @@ p
     position: relative;
     
 }
-
 .p5
 {
     position:absolute;
     height: 30px;
     width: 14%;
-    top: 222px;
-    right: 39px;
+    top: 246px;
+    right: 37px;
     padding: 2px;
     text-align: center;
     font-weight: 700;
@@ -287,17 +285,15 @@ p
 }
     .p3
 {
-    position: relative;
-    
+    position: relative;   
 }
-
 .p6
 {
     position:absolute;
     height: 30px;
     width: 14%;
-    top: 420px;
-    right: 39px;
+    top: 492px;
+    right: 37px;
     padding: 2px;
     text-align: center;
     font-weight: 700;
