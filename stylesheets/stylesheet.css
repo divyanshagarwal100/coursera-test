@@ -41,12 +41,12 @@ p
 {
     position:absolute;
     height: 26px;
-    width: 8%;
+    width: 6%;
     top: 87px;
-    left: 261px;
+    left: 362px;
     padding: 2px;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
     background-color: cadetblue
 }
     .p2
@@ -59,12 +59,12 @@ p
 {
     position:absolute;
     height: 26px;
-    width: 8%;
+    width: 6%;
     top: 87px;
-    left: 603px;
+    left: 776px;
     padding: 2px;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
     background-color: cadetblue
 }
     .p3
@@ -77,12 +77,12 @@ p
 {
     position:absolute;
     height: 26px;
-    width: 8%;
+    width: 6%;
     top: 87px;
-    left: 944px;
+    left: 1245px;
     padding: 2px;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
     background-color: cadetblue
 }
     .col-lg-1
