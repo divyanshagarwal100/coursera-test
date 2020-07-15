@@ -257,13 +257,13 @@ p
 .p4
 {
     position:absolute;
-    height: 33px;
-    width: 15%;
-    top: 72px;
-    right: 37px;
-    padding: 3px;
+    height: 28px;
+    width: 17%;
+    top: 87px;
+    right: 14px;
+    padding: 2px;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
     background-color: cadetblue
 }
     .p2
@@ -274,13 +274,13 @@ p
 .p5
 {
     position:absolute;
-    height: 30px;
-    width: 14%;
-    top: 246px;
-    right: 37px;
+    height: 28px;
+    width: 17%;
+    top: 259px;
+    right: 14px;
     padding: 2px;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
     background-color: cadetblue
 }
     .p3
@@ -290,13 +290,13 @@ p
 .p6
 {
     position:absolute;
-    height: 30px;
-    width: 14%;
-    top: 492px;
-    right: 37px;
+    height: 28px;
+    width: 17%;
+    top: 503px;
+    right: 14px;
     padding: 2px;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
     background-color: cadetblue
 }
     .col-sm-1
