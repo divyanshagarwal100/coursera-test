@@ -1,9 +1,11 @@
 * {
     box-sizing: border-box;
+background-color: #61122f;
 }
+
 h1
 {
-    color: navy;
+    color: white;
     text-align: center;
     font-family: cursive
 }
@@ -12,7 +14,6 @@ p
     width: 97%;
     border: 2px solid black;
     height: 95%;
-    padding: 5px;
     margin-right: auto;
     margin-left: auto;
     font-family: sans-serif;
@@ -22,7 +23,6 @@ p
 .row
 {
     width: 100%;
-    background-color: cornflowerblue;
 }
 
 @media (min-width: 992px)
@@ -34,55 +34,70 @@ p
     .p1
 {
     position: relative;
-    
+    width: 98%;
+    height: 95%;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: lightgrey
 }
-
 .p4
 {
+   border: 2px solid black;
     position:absolute;
     height: 26px;
-    width: 6%;
-    top: 87px;
-    left: 365px;
+    width: 20%;
+    top: 0px;
+    right: 0px;
     padding: 2px;
     text-align: center;
-    font-weight: 600;
+    font-weight: 700;
     background-color: cadetblue
 }
     .p2
 {
-    position: relative;
-    
+     position: relative;
+    width: 98%;
+    height: 95%;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: lightgrey
 }
-
 .p5
 {
+   border: 2px solid black;
     position:absolute;
     height: 26px;
-    width: 6%;
-    top: 87px;
-    left: 810px;
+    width: 20%;
+    top: 0px;
+    right: 0px;
     padding: 2px;
     text-align: center;
-    font-weight: 600;
+    font-weight: 700;
     background-color: cadetblue
 }
     .p3
 {
-    position: relative;
+  position: relative;
+    width: 98%;
+    height: 95%;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: lightgrey
+}
     
 }
 
 .p6
 {
+    border: 2px solid black;
     position:absolute;
     height: 26px;
-    width: 6%;
-    top: 87px;
-    left: 1256px;
+    width: 20%;
+    top: 0px;
+    right: 0px;
     padding: 2px;
     text-align: center;
-    font-weight: 600;
+    font-weight: 700;
     background-color: cadetblue
 }
     .col-lg-1
@@ -133,8 +148,8 @@ p
     {
         width: 100%;
     }
-    }
-@media (min-width: 768px) and (max-width: 991px)
+    
+@media(min-width: 768px) and (max-width: 991px)
 {
 .col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12
     {
@@ -142,17 +157,23 @@ p
     }  
     .p1
 {
+      
     position: relative;
-    
+    width: 98%;
+    height: 99%;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: lightgrey
 }
 
 .p4
 {
+    border: 2px solid black;
     position:absolute;
     height: 26px;
-    width: 10%;
-    top: 87px;
-    left: 319px;
+    width: 20%;
+    top: 0px;
+    right: 0px;
     padding: 2px;
     text-align: center;
     font-weight: 700;
@@ -160,17 +181,24 @@ p
 }
     .p2
 {
+   
     position: relative;
+    width: 98%;
+    height: 99%;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: lightgrey
     
 }
 
 .p5
 {
+       border: 2px solid black;
     position:absolute;
-    height: 26px;
-    width: 10%;
-    top: 87px;
-    left: 716px;
+   height: 26px;
+    width: 20%;
+    top: 0px;
+    right: 0px;
     padding: 2px;
     text-align: center;
     font-weight: 700;
@@ -179,16 +207,22 @@ p
     .p3
 {
     position: relative;
+    width: 99%;
+    height: 99%;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: lightgrey
     
 }
 
 .p6
 {
+       border: 2px solid black;
     position:absolute;
-    height: 26px;
-    width: 10%;
-    top: 313px;
-    left: 710px;
+   height: 26px;
+    width: 20%;
+    top: 0px;
+    right: 0px;
     padding: 2px;
     text-align: center;
     font-weight: 700;
@@ -251,53 +285,76 @@ p
     }
     .p1
 {
-    position: relative;
     
+    position: relative;
+    width: 95%;
+    height: 95%;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: lightgrey
 }
 .p4
 {
-    position:absolute;
-    height: 28px;
-    width: 17%;
-    top: 87px;
-    right: 14px;
+    border: 2px solid black;
+    position: absolute;
+    height: 25px;
+    width: 75px;
+    top: 0px;
+    right: 0px;
     padding: 2px;
     text-align: center;
     font-weight: 600;
     background-color: cadetblue
-}
-    .p2
-{
-    position: relative;
     
+}
+   
+ .p2
+{
+    
+    position: relative;
+   width: 95%;
+    height: 95%;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: lightgrey
 }
 .p5
 {
-    position:absolute;
-    height: 28px;
-    width: 17%;
-    top: 259px;
-    right: 14px;
+    border: 2px solid black;
+    position: absolute;
+    height: 25px;
+    width: 75px;
+    top: 0px;
+    right: 0px;
     padding: 2px;
     text-align: center;
     font-weight: 600;
     background-color: cadetblue
+    
 }
     .p3
 {
-    position: relative;   
+    
+    position: relative;
+   width: 95%;
+    height: 95%;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: lightgrey
 }
 .p6
 {
-    position:absolute;
-    height: 28px;
-    width: 17%;
-    top: 503px;
-    right: 14px;
+    border: 2px solid black;
+    position: absolute;
+    height: 25px;
+    width: 75px;
+    top: 0px;
+    right: 0px;
     padding: 2px;
     text-align: center;
     font-weight: 600;
     background-color: cadetblue
+    
 }
     .col-sm-1
     {
